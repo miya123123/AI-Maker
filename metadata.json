@@ -1,0 +1,5 @@
+{
+  "name": "AI Maker",
+  "description": "自作マップに対応したマリメ風2Dプラットフォーマー。AIによるステージ自動生成機能付き。",
+  "requestFramePermissions": []
+}
